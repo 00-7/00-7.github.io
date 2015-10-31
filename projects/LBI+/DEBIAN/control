@@ -1,0 +1,12 @@
+Package: net.fritztech.lbi6plus
+Name: LBI 6+
+Version: 0.1
+Depends: com.fortysixandtwo.alkaline
+Architecture: iphoneos-arm
+Description: Updated Alkaline theme from Live Battery Indicator iOS 7. Originally by pw5a29 on modmyi.com. This package installs a single theme that is applied with Alkaline.
+Depiction: http://apt.fritztech.net/depiction/net.fritztech.lbi6plus
+Homepage: http://www.fritztech.net
+Maintainer: FRITZ|FRITZ <fritz@fritztech.net>
+Author: FRITZ|FRITZ <fritz@fritztech.net>
+Section: Themes
+Icon: file:///Library/Alkaline/LBI\ 6+/Icon.png
